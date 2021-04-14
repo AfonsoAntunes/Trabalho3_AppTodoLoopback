@@ -1,0 +1,14 @@
+{
+  "name": "apiloopback",
+  "version": "1.0.0",
+  "description": "First Loopback API with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afonso Antunes",
+  "license": "ISC",
+  "dependencies": {
+    "loopback-connector-mongodb": "^6.0.0"
+  }
+}
